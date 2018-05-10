@@ -6,6 +6,7 @@ public class MorningZombie {
 		JOptionPane.showMessageDialog(null, "Do you want to die!!! Wait... hmmm...Again!!!");
 		JOptionPane.showMessageDialog(null, "HUH!!! What did you just say huh.. Tell me!! Strait to my face! Yeah thats right. ");
 		JOptionPane.showMessageDialog(null, "*cracks nuckles*");
+		JOptionPane.showMessageDialog(null, "WRYYYYY");
 	}
 
 }
